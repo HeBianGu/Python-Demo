@@ -79,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="481">
-              <caret line="29" lean-forward="true" selection-start-line="5" selection-end-line="29" />
+              <caret line="29" selection-start-line="5" selection-end-line="29" />
               <folding>
                 <element signature="e#15#36#0" expanded="true" />
                 <element signature="e#61#151#0" />
@@ -91,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="230">
+              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
               </folding>
@@ -155,7 +155,7 @@
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
               </folding>
@@ -167,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
-              <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
+              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
               <folding>
                 <element signature="e#0#34#0" expanded="true" />
               </folding>
@@ -179,7 +179,7 @@
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="158">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
+              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
               <folding>
                 <element signature="e#85#106#0" expanded="true" />
               </folding>
@@ -227,12 +227,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="113" />
     <option name="y" value="40" />
     <option name="width" value="1400" />
     <option name="height" value="1022" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -429,7 +430,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="113" y="40" width="1400" height="1022" extended-state="0" />
+    <frame x="113" y="40" width="1400" height="1022" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
@@ -530,7 +531,7 @@
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="158">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
           <folding>
             <element signature="e#85#106#0" expanded="true" />
           </folding>
@@ -560,7 +561,7 @@
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="481">
-          <caret line="29" lean-forward="true" selection-start-line="5" selection-end-line="29" />
+          <caret line="29" selection-start-line="5" selection-end-line="29" />
           <folding>
             <element signature="e#15#36#0" expanded="true" />
             <element signature="e#61#151#0" />
@@ -571,7 +572,7 @@
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#17#51#0" expanded="true" />
           </folding>
@@ -581,7 +582,7 @@
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
-          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
+          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
@@ -604,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="230">
+          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
           <folding>
             <element signature="e#17#51#0" expanded="true" />
           </folding>
