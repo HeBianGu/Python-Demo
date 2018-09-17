@@ -1,15 +1,11 @@
 # coding=utf-8
 import urllib.request
 
-
 def gethtml(url):
     page = urllib.request.urlopen(url)
     html = page.read().decode("utf-8")
 
     return html
-
-
-url = "http://www.mzitu.com/"
 
 url1 = "http://www.mzitu.com/150384/12"
 

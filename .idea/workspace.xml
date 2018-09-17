@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c91f92a-613e-41fd-ac4e-2fb51556449d" name="Default Changelist" comment="" />
+    <list default="true" id="6c91f92a-613e-41fd-ac4e-2fb51556449d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoadWithHeader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/success.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +31,7 @@
     <SUITE FILE_PATH="coverage/Python_Demo$RRR.coverage" NAME="RRR Coverage Results" MODIFIED="1537001066146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$DropTable.coverage" NAME="DropTable Coverage Results" MODIFIED="1536991527577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
     <SUITE FILE_PATH="coverage/Python_Demo$DeleteData.coverage" NAME="DeleteData Coverage Results" MODIFIED="1536992611802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Html.coverage" NAME="Crawler - Html Coverage Results" MODIFIED="1537004004130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Html.coverage" NAME="Crawler - Html Coverage Results" MODIFIED="1537165325682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$yy.coverage" NAME="yy Coverage Results" MODIFIED="1537003733247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
   </component>
   <component name="DatabaseView">
@@ -42,57 +52,58 @@
     <session id="-1683596417">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="py" value="26" />
           <entry key="sql" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="21" />
+          <entry key="Python" value="26" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="939" />
+          <entry key="py" value="961" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="938" />
+          <entry key="Python" value="960" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
+            <state relative-caret-position="756">
               <caret line="29" selection-start-line="5" selection-end-line="29" />
               <folding>
                 <element signature="e#15#36#0" expanded="true" />
-                <element signature="e#61#151#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+            <state relative-caret-position="715">
+              <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
               </folding>
@@ -101,19 +112,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="432">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
+            <state relative-caret-position="297">
+              <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -123,15 +134,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="1205" selection-start-line="1205" selection-end-line="1205" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -152,36 +154,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoadWithHeader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="783">
+              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
               <folding>
                 <element signature="e#17#51#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#34#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
-              <folding>
-                <element signature="e#85#106#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -201,6 +179,9 @@
       <find>&lt;img</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -212,12 +193,14 @@
         <option value="$PROJECT_DIR$/Demo - DataBase/SqliteDb/SeletctData.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py" />
-        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py" />
-        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/iii.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoadWithHeader.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Demo - Meizitu.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py" />
       </list>
     </option>
   </component>
@@ -239,7 +222,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,20 +240,30 @@
               <item name="Demo - DataBase" type="462c0819:PsiDirectoryNode" />
               <item name="NetWork" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python-Demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Python-Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/python/PythonDemo-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GitHub\Python-Demo\Demo - DataBase\NetWork\Demo" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\GitHub\Python-Demo\Demo - DataBase\NetWork" />
     </key>
@@ -288,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.demo">
+  <component name="RunManager" selected="Python.Crawler - Html">
     <configuration name="Crawler - DownLoad" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -408,10 +400,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Crawler - Html" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.Crawler - Regex" />
         <item itemvalue="Python.iii" />
-        <item itemvalue="Python.Crawler - Html" />
         <item itemvalue="Python.Crawler - DownLoad" />
       </list>
     </recent_temporary>
@@ -431,28 +423,29 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="113" y="40" width="1400" height="1022" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3290993" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.47184685" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4712514" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" weight="0.32910448" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32910448" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,33 +500,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="459">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        <state relative-caret-position="5697">
+          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py">
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="30" column="33" lean-forward="true" selection-end-line="63" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="6" column="74" selection-start-line="6" selection-start-column="74" selection-end-line="6" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="27" />
+          <caret line="6" lean-forward="true" selection-end-line="33" />
           <folding>
-            <element signature="e#85#106#0" expanded="true" />
+            <element signature="e#17#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -551,6 +547,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -558,58 +561,67 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="29" selection-start-line="5" selection-end-line="29" />
+        <state relative-caret-position="459">
+          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
           <folding>
-            <element signature="e#15#36#0" expanded="true" />
-            <element signature="e#61#151#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#17#51#0" expanded="true" />
+            <element signature="e#85#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="37" />
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="17" selection-end-column="65" />
           <folding>
             <element signature="e#0#34#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
+        <state relative-caret-position="756">
+          <caret line="29" selection-start-line="5" selection-end-line="29" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoadWithHeader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        <state relative-caret-position="783">
+          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding>
             <element signature="e#17#51#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - DownLoad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="41" column="16" lean-forward="true" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
         </state>
       </provider>
     </entry>

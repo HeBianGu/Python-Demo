@@ -2,8 +2,6 @@
 from urllib.request import urlopen
 from urllib.request import Request
 import random
-import re
-
 
 def getContent(url, headers):
     """
@@ -18,7 +16,7 @@ def getContent(url, headers):
     req = Request(url)
     req.add_header("User-Agent", random_header)
     req.add_header("GET", url)
-    #req.add_header("Host", "www.mzitu.com")
+    # req.add_header("Host", "www.mzitu.com")
     req.add_header("Referer", "http://www.mzitu.com/150384/12")
 
     content = urlopen(req).read()
