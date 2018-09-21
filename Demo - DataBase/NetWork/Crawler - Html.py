@@ -1,6 +1,9 @@
 # coding=utf-8
 import urllib.request
 
+"""
+ 爬取html脚本
+"""
 def gethtml(url):
     page = urllib.request.urlopen(url)
     html = page.read().decode("utf-8")

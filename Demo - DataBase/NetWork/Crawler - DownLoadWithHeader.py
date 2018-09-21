@@ -3,6 +3,10 @@ from urllib.request import urlopen
 from urllib.request import Request
 import random
 
+"""
+ 应用头文件浏览器环境下载受保护的文件
+"""
+
 def getContent(url, headers):
     """
     此函数用于抓取返回403禁止访问的网页

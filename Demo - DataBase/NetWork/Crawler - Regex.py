@@ -2,6 +2,9 @@
 import urllib.request
 import re
 
+"""
+ 应用正则表达式筛选html脚本
+"""
 
 def gethtml(url):
     page = urllib.request.urlopen(url)
