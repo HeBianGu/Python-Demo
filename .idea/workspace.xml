@@ -20,25 +20,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Regex.coverage" NAME="Crawler - Regex Coverage Results" MODIFIED="1537004873214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
-    <SUITE FILE_PATH="coverage/Python_Demo$CreateTable.coverage" NAME="CreateTable Coverage Results" MODIFIED="1536991647630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1537169337150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Log" />
-    <SUITE FILE_PATH="coverage/Python_Demo$Connect.coverage" NAME="Connect Coverage Results" MODIFIED="1536990962784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1537007380706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$rrr.coverage" NAME="rrr Coverage Results" MODIFIED="1537174001946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Log" />
     <SUITE FILE_PATH="coverage/Python_Demo$InsertData.coverage" NAME="InsertData Coverage Results" MODIFIED="1536992640138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___DownLoad.coverage" NAME="Crawler - DownLoad Coverage Results" MODIFIED="1537003749140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$SeletctData.coverage" NAME="SeletctData Coverage Results" MODIFIED="1536992620343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$iii.coverage" NAME="iii Coverage Results" MODIFIED="1537004661016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
-    <SUITE FILE_PATH="coverage/Python_Demo$Process___cmd.coverage" NAME="Process - cmd Coverage Results" MODIFIED="1537177970410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SystemProcess" />
-    <SUITE FILE_PATH="coverage/Python_Demo$RRR.coverage" NAME="RRR Coverage Results" MODIFIED="1537001066146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$DropTable.coverage" NAME="DropTable Coverage Results" MODIFIED="1536991527577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$DeleteData.coverage" NAME="DeleteData Coverage Results" MODIFIED="1536992611802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
-    <SUITE FILE_PATH="coverage/Python_Demo$Async___Pool.coverage" NAME="Async - Pool Coverage Results" MODIFIED="1537176841999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Async" />
     <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Html.coverage" NAME="Crawler - Html Coverage Results" MODIFIED="1537165325682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
-    <SUITE FILE_PATH="coverage/Python_Demo$yy.coverage" NAME="yy Coverage Results" MODIFIED="1537003733247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
     <SUITE FILE_PATH="coverage/Python_Demo$Async___Process.coverage" NAME="Async - Process Coverage Results" MODIFIED="1537176735697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Async" />
     <SUITE FILE_PATH="coverage/Python_Demo$Log.coverage" NAME="Log Coverage Results" MODIFIED="1537494702697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Log" />
+    <SUITE FILE_PATH="coverage/Python_Demo$ImagePage.coverage" NAME="ImagePage Coverage Results" MODIFIED="1537727150298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
+    <SUITE FILE_PATH="coverage/Python_Demo$ttt.coverage" NAME="ttt Coverage Results" MODIFIED="1537169337150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Log" />
+    <SUITE FILE_PATH="coverage/Python_Demo$TitlePage.coverage" NAME="TitlePage Coverage Results" MODIFIED="1537773939176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
+    <SUITE FILE_PATH="coverage/Python_Demo$CreateTable.coverage" NAME="CreateTable Coverage Results" MODIFIED="1536991647630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
+    <SUITE FILE_PATH="coverage/Python_Demo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1537007380706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Async___Pool.coverage" NAME="Async - Pool Coverage Results" MODIFIED="1537176841999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/Async" />
+    <SUITE FILE_PATH="coverage/Python_Demo$yy.coverage" NAME="yy Coverage Results" MODIFIED="1537003733247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___DownLoad.coverage" NAME="Crawler - DownLoad Coverage Results" MODIFIED="1537003749140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$DeleteData.coverage" NAME="DeleteData Coverage Results" MODIFIED="1536992611802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Process___cmd.coverage" NAME="Process - cmd Coverage Results" MODIFIED="1537177970410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SystemProcess" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Regex.coverage" NAME="Crawler - Regex Coverage Results" MODIFIED="1537004873214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Connect.coverage" NAME="Connect Coverage Results" MODIFIED="1536990962784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/SqliteDb" />
+    <SUITE FILE_PATH="coverage/Python_Demo$Crawler___Demo___Meizitu.coverage" NAME="Crawler - Demo - Meizitu Coverage Results" MODIFIED="1537711637724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
+    <SUITE FILE_PATH="coverage/Python_Demo$iii.coverage" NAME="iii Coverage Results" MODIFIED="1537004661016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
+    <SUITE FILE_PATH="coverage/Python_Demo$RRR.coverage" NAME="RRR Coverage Results" MODIFIED="1537001066146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Demo - DataBase/NetWork" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -62,14 +65,15 @@
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.49" value="1" />
           <entry key="project.open.time.66" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.82" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="1" />
           <entry key="log" value="5" />
-          <entry key="py" value="48" />
+          <entry key="py" value="63" />
           <entry key="sql" value="1" />
           <entry key="tt" value="1" />
         </counts>
@@ -78,14 +82,14 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="63" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="7" />
-          <entry key="py" value="1768" />
+          <entry key="py" value="3557" />
           <entry key="tt" value="2" />
         </counts>
       </usages-collector>
@@ -93,81 +97,20 @@
         <counts>
           <entry key="JSON" value="2" />
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="1767" />
+          <entry key="Python" value="3556" />
           <entry key="SQL" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#15#36#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/Connect.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/CreateTable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/Async/Async - Pool.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#16#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/Async/Async - Process.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="e#16#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Demo - DataBase/SystemProcess/Process - cmd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="-8">
               <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
               <folding>
                 <element signature="e#0#17#0" expanded="true" />
@@ -177,19 +120,85 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Demo - DataBase/Log/Log.py">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-972">
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="180">
+              <caret line="59" column="113" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="113" />
+              <folding>
+                <element signature="e#17#51#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey.py">
+        <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/TitlePage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11934">
-              <caret line="444" selection-start-line="444" selection-end-line="444" />
+            <state relative-caret-position="161">
+              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+              <folding>
+                <element signature="e#17#51#0" expanded="true" />
+                <element signature="e#783#945#0" />
+                <element signature="e#1811#2111#0" />
+                <element signature="e#2144#2430#0" />
+                <element signature="e#2338#2559#0" />
+                <marker date="1537773939048" expanded="true" signature="3208:3475" ph="..." />
+                <marker date="1537773939048" expanded="true" signature="3208:3479" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/socket.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="588" column="9" selection-start-line="588" selection-start-column="9" selection-end-line="588" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1453">
+              <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="320" selection-start-line="320" selection-end-line="320" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="1883" selection-start-line="1883" selection-end-line="1883" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8">
+              <caret line="173" selection-start-line="173" selection-end-line="173" />
             </state>
           </provider>
         </entry>
@@ -197,7 +206,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/subprocess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17739">
+            <state>
               <caret line="657" selection-start-line="657" selection-end-line="657" />
             </state>
           </provider>
@@ -215,6 +224,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>&lt;img</find>
+      <find>首页</find>
+      <find>print</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -247,6 +258,9 @@
         <option value="$PROJECT_DIR$/Demo - DataBase/Async/Async - Pool.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/Async/Async - Process.py" />
         <option value="$PROJECT_DIR$/Demo - DataBase/SystemProcess/Process - cmd.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/ImagePage.py" />
+        <option value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/TitlePage.py" />
       </list>
     </option>
   </component>
@@ -268,7 +282,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,17 +298,26 @@
               <item name="Python-Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Demo" type="462c0819:PsiDirectoryNode" />
               <item name="Demo - DataBase" type="462c0819:PsiDirectoryNode" />
-              <item name="SystemProcess" type="462c0819:PsiDirectoryNode" />
+              <item name="NetWork" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python-Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo - DataBase" type="462c0819:PsiDirectoryNode" />
+              <item name="NetWork" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python-Demo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python-Demo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo - DataBase" type="462c0819:PsiDirectoryNode" />
+              <item name="SystemProcess" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,7 +326,7 @@
     <property name="last_opened_file_path" value="F:/python/PythonDemo-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -326,8 +348,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Log">
-    <configuration name="Async - Pool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.TitlePage">
+    <configuration name="Crawler - Demo - Meizitu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,12 +357,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/Async" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/Async/Async - Pool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +371,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Async - Process" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ImagePage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,12 +379,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/Async" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/Async/Async - Process.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/ImagePage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -415,7 +437,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rrr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TitlePage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-Demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -423,12 +445,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/Log" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/Log/rrr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/TitlePage.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,18 +461,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Log" />
-      <item itemvalue="Python.rrr" />
-      <item itemvalue="Python.Async - Process" />
-      <item itemvalue="Python.Async - Pool" />
       <item itemvalue="Python.Process - cmd" />
+      <item itemvalue="Python.Crawler - Demo - Meizitu" />
+      <item itemvalue="Python.TitlePage" />
+      <item itemvalue="Python.ImagePage" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TitlePage" />
+        <item itemvalue="Python.ImagePage" />
+        <item itemvalue="Python.Crawler - Demo - Meizitu" />
         <item itemvalue="Python.Log" />
         <item itemvalue="Python.Process - cmd" />
-        <item itemvalue="Python.Async - Pool" />
-        <item itemvalue="Python.Async - Process" />
-        <item itemvalue="Python.rrr" />
       </list>
     </recent_temporary>
   </component>
@@ -468,16 +490,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18283582" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3290993" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3083605" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31691298" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41543514" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -501,9 +523,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5916fa07-a553-4f24-94bc-84fbef377540/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/5916fa07-a553-4f24-94bc-84fbef377540/console.sql" />
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/DeleteData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
@@ -532,29 +552,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5697">
-          <caret line="214" column="4" selection-start-line="214" selection-start-column="4" selection-end-line="214" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/demo.py" />
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/success.py" />
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="648" selection-start-line="648" selection-end-line="648" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/yy.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -565,13 +564,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/RRR.py" />
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/ttt.py" />
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="41" column="16" selection-start-line="41" selection-start-column="16" selection-end-line="41" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/Log/tt" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/json/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -630,31 +622,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Regex.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="114">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#15#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/Connect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/CreateTable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
+        <state relative-caret-position="57">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Crawler - Html.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/Async/Async - Pool.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state relative-caret-position="-8">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#16#39#0" expanded="true" />
@@ -664,7 +663,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/Async/Async - Process.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state>
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="e#16#39#0" expanded="true" />
@@ -672,41 +671,127 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/Log/Log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_monkey.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11934">
+        <state>
           <caret line="444" selection-start-line="444" selection-end-line="444" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/subprocess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17739">
+        <state>
           <caret line="657" selection-start-line="657" selection-end-line="657" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/Log/Log.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Demo - DataBase/SqliteDb/Connect.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Demo - DataBase/SystemProcess/Process - cmd.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="-8">
           <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
           <folding>
             <element signature="e#0#17#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="173" selection-start-line="173" selection-end-line="173" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/bs4/element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="1883" selection-start-line="1883" selection-end-line="1883" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/shelve.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="100" column="32" lean-forward="true" selection-start-line="100" selection-start-column="32" selection-end-line="100" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="320" selection-start-line="320" selection-end-line="320" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/ImagePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="101" column="30" selection-start-line="101" selection-start-column="30" selection-end-line="101" selection-end-column="30" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+            <element signature="e#525#552#1" />
+            <element signature="e#468#893#0" />
+            <element signature="e#1086#1309#0" />
+            <element signature="e#1357#1656#0" />
+            <element signature="e#1674#1920#0" />
+            <element signature="e#2017#2316#0" />
+            <marker date="1537727150057" expanded="true" signature="547:589" ph="..." />
+            <marker date="1537727150057" expanded="true" signature="1352:2452" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/Crawler - Demo - Meizitu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="59" column="113" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="113" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1453">
+          <caret line="138" column="4" selection-start-line="138" selection-start-column="4" selection-end-line="138" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Demo - DataBase/NetWork/Demo/TitlePage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <element signature="e#17#51#0" expanded="true" />
+            <element signature="e#783#945#0" />
+            <element signature="e#1811#2111#0" />
+            <element signature="e#2144#2430#0" />
+            <element signature="e#2338#2559#0" />
+            <marker date="1537773939048" expanded="true" signature="3208:3475" ph="..." />
+            <marker date="1537773939048" expanded="true" signature="3208:3479" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="588" column="9" selection-start-line="588" selection-start-column="9" selection-end-line="588" selection-end-column="9" />
         </state>
       </provider>
     </entry>

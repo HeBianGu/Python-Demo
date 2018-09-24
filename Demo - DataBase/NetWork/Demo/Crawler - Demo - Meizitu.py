@@ -4,7 +4,11 @@ from urllib.request import Request
 import random
 import re
 
+
 def gethtml(url):
+    """
+     获取网页
+      """
     page = urlopen(url)
     html = page.read().decode("utf-8")
     return html
