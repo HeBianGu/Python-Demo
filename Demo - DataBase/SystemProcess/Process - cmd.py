@@ -9,4 +9,4 @@ result = subprocess.call("mstsc")
 
 os.system("notepad")
 
-print("Exit code:", result)吧
+print("Exit code:", result)

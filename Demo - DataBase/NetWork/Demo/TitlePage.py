@@ -107,7 +107,6 @@ def getNextPage(url):
             return c.get("href")
     return  ''
 
-
 def getTitleNextPage(url):
     """
     获取下一页
@@ -132,7 +131,6 @@ def downLoadPage(url):
         return
     downLoadPage(nextPage)
 
-
 def downloadTitle(url):
     print("首页："+url)
     content = gethtml(url)
@@ -146,12 +144,9 @@ def downloadTitle(url):
     downloadTitle(titleNextPage)
 
 url = "http://www.mzitu.com/"
+
 downloadTitle('http://www.mzitu.com/page/14/')
+
 print("下完了！")
 
-
-
-
-
-# print(content)
 
